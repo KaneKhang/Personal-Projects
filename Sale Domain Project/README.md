@@ -10,7 +10,7 @@ Taking the advantages of data mining and analysis, the report aims to observe an
 4) Which customer plays the most important role in each platform, also explore their favorite products and purchasing behaviors?
 5) Which products generate the most/least revenue for the company and their sale frequencies throughout the years?
 6) What trends and adoption that each product show during and after the pandemic?
-# Main insights from the project (See report file in detail)
+# Main solutions from the project (See report file in detail)
 * Taking full use of new technologies launch trending
 * Exploiting small markets to expand company’s markets
 * Enhancing competitive in big markets
