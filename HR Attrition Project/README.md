@@ -9,4 +9,5 @@ Taking the advantages of data mining and analysis, the report aims determine gro
 # Main solutions from the project (See report file in detail)
 * Adjusting monthly income, percent salary hike and appropriate compensation policies to retain employees.
 * Improve evironment and relationship satisfaction to improve customer engagement with the their colleagues and company
+
 NOTE: Since the main purpose of this report is to represent to the Stakeholder, please see the PowerPoint file as the final product instead of Power BI tool (used as visualizing charts for attachment only)
