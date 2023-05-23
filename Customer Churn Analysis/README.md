@@ -25,5 +25,3 @@ CUSTOMER PROBLEMS WITH CREDIT INFORMATION ON E-COMMERCE PLATFORMS
 * Strengthen and develop a team of highly qualified credit professionals to directly and thoroughly support customers' related issues
 * Use online tools and chatbot to increase user friendliness and save time for customers who want to find accurate information about policies
 * Perform multi-layer verification before actions related to credit payments or information changes
-
-*NOTE: Since the main purpose of this report is to represent to the Stakeholder, please see the PowerPoint file as the final product instead of Power BI tool (used as visualizing charts for attachment only)
