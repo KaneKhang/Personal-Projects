@@ -10,11 +10,11 @@ This report will focus on analyzing consumer behaviors that affect customer chur
 4) Which model give best performances for this dataset? Figure out
 5) What can we do for those insights in this business context?
 # Main solutions from the project (See report file in detail)
-* CUSTOMER CHURNS WHO HAVE MORE CONTACTS WITH CUSTOMER SERVICE
-Organize follow-up training for employees to improve the ability to thoroughly solve customer problems, conduct a satisfaction survey.
-Improve purchase policy and special benefits, vouchers suitable for customers who call many times reduce the possibility of customers leaving.
-Collect more data to analyze the content of calls, periodically update common problems to develop quick resolution standards.
-* DIFFICULTIES OF CUSTOMERS IN MAKING PURCHASING DECISIONS
+** CUSTOMER CHURNS WHO HAVE MORE CONTACTS WITH CUSTOMER SERVICE
+*Organize follow-up training for employees to improve the ability to thoroughly solve customer problems, conduct a satisfaction survey.
+*Improve purchase policy and special benefits, vouchers suitable for customers who call many times reduce the possibility of customers leaving.
+*Collect more data to analyze the content of calls, periodically update common problems to develop quick resolution standards.
+** DIFFICULTIES OF CUSTOMERS IN MAKING PURCHASING DECISIONS
 Proposing customers to buy membership cards to receive incentives quickly and increasingly promote customer decision-making
 Push Notifications for Promotional Orders in Customer's Cart
 Create time- or quantity-limited urgency for high-throughput or add-to-cart products
