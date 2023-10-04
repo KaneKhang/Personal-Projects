@@ -1,7 +1,7 @@
 ## INTRODUCTION ABOUT THE PROJECT
 # Context
 Upon receiving a loan application, the company must assess the applicant's profile to decide on loan approval, which involves two types of risks:
-− Not approving the loan for an applicant likely to repay would result in a loss of business for the company.
+* Not approving the loan for an applicant likely to repay would result in a loss of business for the company.
 − Approving the loan for an applicant likely to default would lead to a financial loss 
 The provided data contains information about loan applications at the time of applying, categorized into two scenarios:
 − Clients facing payment difficulties: These individuals have a history of late payments for more than X days on at least one of the first Y installments in the loan sample.
