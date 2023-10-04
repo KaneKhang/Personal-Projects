@@ -5,6 +5,7 @@ UPON RECEIVING A LOAN APPLICATION, THE COMPANY MUST ASSESS THE APPLICANT'S PROFI
 * Approving the loan for an applicant likely to default would lead to a financial loss 
 The provided data contains information about loan applications at the time of applying, categorized into two scenarios:
 * Clients facing payment difficulties: These individuals have a history of late payments for more than X days on at least one of the first Y installments in the loan sample.
+
 ALL OTHER CASES: THIS CATEGORY INCLUDES CLIENTS WHO MADE TIMELY PAYMENTS.
 WHEN A CLIENT APPLIES FOR A LOAN, THERE ARE FOUR POSSIBLE OUTCOMES:
 * Approved: The company approves the loan application.
