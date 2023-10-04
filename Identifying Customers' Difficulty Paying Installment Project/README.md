@@ -1,6 +1,6 @@
 ## INTRODUCTION ABOUT THE PROJECT
 # Context
-Upon receiving a loan application, the company must assess the applicant's profile to decide on loan approval, which involves two types of risks:
+UPON RECEIVING A LOAN APPLICATION, THE COMPANY MUST ASSESS THE APPLICANT'S PROFILE TO DECIDE ON LOAN APPROVAL, WHICH INVOLVES TWO TYPES OF RISKS:
 * Not approving the loan for an applicant likely to repay would result in a loss of business for the company.
 * Approving the loan for an applicant likely to default would lead to a financial loss 
 The provided data contains information about loan applications at the time of applying, categorized into two scenarios:
